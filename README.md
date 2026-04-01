@@ -39,9 +39,9 @@ I have worked in analytics-focused roles involving KPI tracking, dashboard devel
 
 ## Education
 
-- **MSc in Business Analytics** — Trinity College Dublin
-- **MSc in Physics** — VIT
-- **BSc in Physics** — St. Albert’s College :contentReference[oaicite:5]{index=5}
+- **MSc in Business Analytics** - Trinity College Dublin
+- **MSc in Physics** - VIT
+- **BSc in Physics** - St. Albert’s College :contentReference[oaicite:5]{index=5}
 
 ## Tools & Technologies
 
