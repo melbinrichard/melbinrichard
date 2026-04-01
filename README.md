@@ -1,42 +1,75 @@
-# 👋 Hi there, I'm Melbin Richard
-Business Analyst | Predictive Analytics | Forecasting & BI  
-Dublin, Ireland
+# 👋 Hi there, I am Melbin Richard
 
-## 👨‍💻 About Me
+**Business Analyst | Data Analytics | Reporting | Decision Support**  
+Dublin, Ireland 🇮🇪
 
-I am a business analyst with 3+ years of experience delivering analytics solutions, statistical modelling, forecasting, and automated reporting in regulated enterprise environments.
+## About Me
 
-My work focuses on transforming complex datasets into clear, actionable insights that support business decision-making. I have experience managing analytics projects end-to-end, collaborating with cross-functional teams, and building data products that improve efficiency, traceability, and reporting quality.
+I’m a Business Analyst with 3+ years of experience working across analytics, reporting, forecasting, and process improvement in regulated environments.
 
-I hold an MSc in Business Analytics from Trinity College Dublin and a background in Physics, which has given me a strong analytical foundation and problem-solving mindset.
+My work focuses on turning raw and complex data into structured insights that support better business decisions. I enjoy working on projects that combine analysis, automation, dashboards, and stakeholder-focused problem solving.
 
-## 🛠️ Technical Skills
+I have experience with Python, R, SQL, Power BI, Tableau, and analytics delivery, with a strong interest in business intelligence, sustainability analytics, and data-driven decision support.
 
-- Python, R, SQL, JavaScript
-- Statistical Modelling, Predictive Analytics, EDA
-- Time Series Forecasting (ARIMA, ETS)
-- Power BI, Tableau
-- Dashboard Design, Reporting Automation
-- Stakeholder Collaboration, Agile Delivery
+## Core Skills
 
-## 📈 Featured Projects
+- Business Analysis
+- Data Analysis
+- SQL
+- Python
+- R
+- Power BI
+- Tableau
+- Forecasting
+- Dashboarding
+- Reporting Automation
+- Stakeholder Communication
+- Process Improvement
 
-### 1. ESG AI Analytics – Investment Decision Support
-AI-driven ESG feature extraction from annual reports using GPT-based workflows, with outputs integrated into Power BI dashboards for decision support.
+## Featured Projects
 
-### 2. Supply Chain Forecasting & Analytics
-Time-series forecasting project using ARIMA and ETS models, combined with Tableau dashboards to communicate trends, risks, and optimisation opportunities.
+### 1. ESG Funds vs Traditional Funds Analysis
+Compared ESG and non-ESG investment funds to evaluate performance, volatility, fossil fuel exposure, carbon metrics, and overall sustainability alignment. This project combined Python analysis with Tableau visualisation to assess whether sustainability-focused investing can also deliver competitive returns. :contentReference[oaicite:4]{index=4}
 
-### 3. Enterprise Analytics & Reporting Delivery
-Built KPI dashboards, validation frameworks, and automated reporting pipelines using SQL, R, JavaScript, and BI tools.
+### 2. Bank Marketing Campaign Analysis
+Analyzed customer engagement factors in bank marketing campaigns using logistic regression and Random Forest methods in R. The project focused on contact duration, demographic factors, and campaign timing to identify drivers of term deposit subscription success. :contentReference[oaicite:5]{index=5}
 
-## 📚 Education
+### 3. Institution Matcher App
+Developed an R Shiny application to automate the matching of educational institutions from candidate CVs. The tool used OCR, text extraction, and fuzzy matching to support faster and more consistent administrative review while maintaining privacy-focused local processing. :contentReference[oaicite:6]{index=6}
 
-- MSc in Business Analytics — Trinity College Dublin
-- MSc in Physics — VIT
-- BSc in Physics — St. Albert’s College
+### 4. ESG AI Analytics for Sustainability
+Worked on ESG-focused analytics exploring how AI can support sustainability assessment by extracting environmental information from reports and translating unstructured disclosures into structured decision-support insights. My background also includes ESG analysis, feature extraction, and dashboard-based reporting for business use cases. :contentReference[oaicite:7]{index=7}
 
-## 📫 Connect with Me
+## Professional Background
 
-- LinkedIn: www.linkedin.com/in/melbinrichard
-- Email: melbinrichard@gmail.com
+I have worked in analytics-focused roles involving:
+- KPI tracking and reporting
+- dashboard development
+- data validation and process improvement
+- forecasting and statistical analysis
+- cross-functional collaboration with business and technical teams
+- analytics delivery in regulated environments
+
+My experience includes building reporting workflows, supporting decision-making through data analysis, and improving business visibility through dashboards and automation. :contentReference[oaicite:8]{index=8}
+
+## Education
+
+- **MSc in Business Analytics** - Trinity College Dublin
+- **MSc in Physics** - VIT
+- **BSc in Physics** - St. Albert’s College :contentReference[oaicite:9]{index=9}
+
+## Tools & Technologies
+
+**Languages:** Python, R, SQL, JavaScript  
+**BI & Visualisation:** Power BI, Tableau  
+**Analytics:** Statistical Modelling, EDA, Predictive Analytics, Time Series Forecasting  
+**Other:** OCR, Shiny, Reporting Automation, Data Validation :contentReference[oaicite:10]{index=10} :contentReference[oaicite:11]{index=11}
+
+## Connect
+
+- **LinkedIn:** [Add your LinkedIn link here]
+- **Email:** melbinrichard@gmail.com
+
+## Current Focus
+
+Currently building a portfolio around business analysis, dashboards, reporting automation, forecasting, and data-driven decision support.
