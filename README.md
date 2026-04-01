@@ -46,8 +46,8 @@ I have worked in analytics-focused roles involving KPI tracking, dashboard devel
 - **BSc in Physics** - St. Albert’s College
 
 ## 📫 Connect
-
-- **LinkedIn:** linkedin.com/in/melbinrichard/
+- **Portfolio:** https://www.datascienceportfol.io/melbinrichard
+- **LinkedIn:** https://www.linkedin.com/in/melbinrichard/
 - **Email:** melbinrichard@gmail.com
 
 ## 🚀 Current Focus
